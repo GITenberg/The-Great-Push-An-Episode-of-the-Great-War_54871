@@ -1,0 +1,33 @@
+_repo: The-Great-Push-An-Episode-of-the-Great-War_54871
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacGill, Patrick
+    birthdate: 1890
+    deathdate: 1963
+    gutenberg_agent_id: '6474'
+    url: http://www.gutenberg.org/2009/agents/6474
+    wikipedia: http://en.wikipedia.org/wiki/Patrick_MacGill
+description: ''
+gutenberg_issued: '2017-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54871'
+  lccn: '16015063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'MacGill, Patrick, 1890-1963'
+- !lcsh 'Authors, English -- 20th century -- Biography'
+- !lcsh 'France -- History -- German occupation, 1914-1918'
+- !lcsh 'Great Britain. Army. London Irish Rifles'
+- !lcsh 'Loos, Battle of, Loos-en-Gohelle, France, 1915'
+- !lcc 'D501'
+- !lcsh 'Soldiers -- Great Britain -- Biography'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- France'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, British'
+- GITenberg
+title: 'The Great Push: An Episode of the Great War'
+url: http://www.gutenberg.org/ebooks/54871
